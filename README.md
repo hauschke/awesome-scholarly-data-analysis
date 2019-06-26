@@ -61,7 +61,7 @@ Available online at https://shubhanshu.com/awesome-scholarly-data-analysis/
 * [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)
 * [Open citations project](http://opencitations.net/)
 * [Wikicite Project](https://meta.wikimedia.org/wiki/WikiCite)
-* [Ecnonomic Papers](http://repec.org/)
+* [Economic Papers](http://repec.org/)
 * [ArXiv data dump](https://arxiv.org/help/bulk_data)
 * [Complete ACL anthology as bibtex file](http://aclanthology.info/anthology.bib)
 * [ACL Anthology Reference Corpus](http://acl-arc.comp.nus.edu.sg/)
